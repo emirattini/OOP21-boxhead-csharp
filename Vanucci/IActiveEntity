@@ -1,0 +1,12 @@
+using System;
+
+namespace OOP21_boxhead_csharp.Vanucci
+{
+
+    public interface IActiveEntity
+    {
+        Point2D Speed { get; set; }
+        Direction Direction { get; set; }
+        void Update();
+    }
+}
