@@ -8,9 +8,10 @@ namespace OOP21_boxhead_csharp.Rattini
 {
     public interface IPoint2D
     {
-        double GetX();
-        double GetY();
+        double X { get; }
 
-        void Add(Point2D point);
+        double Y { get; }
+
+        Point2D Add(Point2D point);
     }
 }

@@ -12,18 +12,11 @@ public class Point2D : IPoint2D
         this._y = y;
     }
 
-    public double GetX()
-    {
-        return this._x;
-    }
-
-    public double GetY()
-    {
-        return this._y;
-    }
+    public double X { get { return this._x; } }
+    public double Y { get { return this._y; } }
 
     public Point2D Add(Point2D point)
     {
-        return new Point2D(this._x + point.GetX(), this._y + point.GetY()); 
+        return new Point2D(this._x + point.X, this._y + point.GetY()); 
     }
 }

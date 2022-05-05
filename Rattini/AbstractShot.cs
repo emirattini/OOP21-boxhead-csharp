@@ -15,6 +15,7 @@ namespace OOP21_boxhead_csharp.Rattini
         }
 
         public abstract ITrajectory GetTrajectory();
+
         public int Damage
         {
             get { return this._damage; }
@@ -22,12 +23,13 @@ namespace OOP21_boxhead_csharp.Rattini
 
         public bool HasEnded()
         {
-            return this.GetTrajectory.HasEnded;
+            return this.GetTrajectory().HasEnded();
         }
 
         public void Update()
         {
-            throw new NotImplementedException();
+            this.GetTrajectory().Update();
+            this.Position = this.GetTrajectory().GetCurrentPosition();
         }
     }
 }
