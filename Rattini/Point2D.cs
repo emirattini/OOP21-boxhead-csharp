@@ -17,6 +17,6 @@ public class Point2D : IPoint2D
 
     public Point2D Add(Point2D point)
     {
-        return new Point2D(this._x + point.X, this._y + point.GetY()); 
+        return new Point2D(this._x + point.X, this._y + point.Y); 
     }
 }

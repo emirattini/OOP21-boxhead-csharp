@@ -89,5 +89,53 @@ namespace OOP21_boxhead_csharp.Rattini
         {
             this._rateOfFire = rate;
         }
+
+        public class Builder
+        {
+            private static readonly int DEFAULT_DAMAGE = 30;
+            private static readonly long DEFAULT_RATE_OF_FIRE = 100;
+            private static readonly int DEFAULT_MAGAZINE_SIZE = 15;
+
+            private readonly String _name;
+            private readonly Point2D _position;
+            private readonly IGun.GunType _gunType;
+            private int _damage;
+            private long _rateOfFire;
+            private int _magazineSize;
+
+            public Builder(Point2D position, IGun.GunType gunType, String name)
+            {
+                this._position = position;
+                this._name = name;
+                this._gunType = gunType;
+                this._damage = DEFAULT_DAMAGE;
+                this._magazineSize = DEFAULT_MAGAZINE_SIZE;
+                this._rateOfFire = DEFAULT_RATE_OF_FIRE;
+            }
+
+            public Builder Damage(int damage)
+            {
+                this._damage = damage;
+                return this;
+            }
+
+            public Builder RateOfFire(long rateOfFire)
+            {
+                this._rateOfFire = rateOfFire;
+                return this;
+            }
+
+            public Builder MagazineSize(int size)
+            {
+                this._magazineSize = size;
+                return this;
+            }
+
+            public IGun Build()
+            {
+                return new Gun(this._position, this._gunType, this._name,
+                               this._damage, this._rateOfFire, this._magazineSize);
+            }
+        }
     }
 }

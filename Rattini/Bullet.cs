@@ -8,8 +8,6 @@ namespace OOP21_boxhead_csharp.Rattini
 {
     public class Bullet : AbstractShot
     {
-        private static readonly double HEIGHT = 2;
-        private static readonly double WIDTH = 1;
 
         private readonly ITrajectory _trajectory;
 
