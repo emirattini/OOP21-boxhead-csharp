@@ -1,0 +1,6 @@
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\ZombieTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\ZombieTest\obj\Debug\net6.0\ZombieTest.csproj.AssemblyReference.cache
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\ZombieTest\obj\Debug\net6.0\ZombieTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\ZombieTest\obj\Debug\net6.0\ZombieTest.AssemblyInfoInputs.cache
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\ZombieTest\obj\Debug\net6.0\ZombieTest.AssemblyInfo.cs
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\ZombieTest\obj\Debug\net6.0\ZombieTest.csproj.CoreCompileInputs.cache

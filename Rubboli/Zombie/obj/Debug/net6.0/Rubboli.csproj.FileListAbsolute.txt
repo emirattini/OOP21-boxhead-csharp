@@ -1,0 +1,15 @@
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\Zombie\bin\Debug\net6.0\Rubboli.exe
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\Zombie\bin\Debug\net6.0\Rubboli.deps.json
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\Zombie\bin\Debug\net6.0\Rubboli.runtimeconfig.json
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\Zombie\bin\Debug\net6.0\Rubboli.dll
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\Zombie\bin\Debug\net6.0\Rubboli.pdb
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\Zombie\obj\Debug\net6.0\Rubboli.csproj.AssemblyReference.cache
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\Zombie\obj\Debug\net6.0\Rubboli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\Zombie\obj\Debug\net6.0\Rubboli.AssemblyInfoInputs.cache
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\Zombie\obj\Debug\net6.0\Rubboli.AssemblyInfo.cs
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\Zombie\obj\Debug\net6.0\Rubboli.csproj.CoreCompileInputs.cache
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\Zombie\obj\Debug\net6.0\Rubboli.dll
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\Zombie\obj\Debug\net6.0\refint\Rubboli.dll
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\Zombie\obj\Debug\net6.0\Rubboli.pdb
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\Zombie\obj\Debug\net6.0\Rubboli.genruntimeconfig.cache
+C:\Users\loxru\git\OOP21-boxhead-csharp\Rubboli\Zombie\obj\Debug\net6.0\ref\Rubboli.dll

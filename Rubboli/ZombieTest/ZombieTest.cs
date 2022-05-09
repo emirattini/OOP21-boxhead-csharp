@@ -2,10 +2,10 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
-using Zombies;
+using Zombie;
 
-namespace ZombieTest
-{
+namespace ZombieTest;
+
     [TestClass]
     public class ZombieTest
     {
@@ -44,4 +44,4 @@ namespace ZombieTest
             Assert.IsTrue(this.model.Zombies.Count == 0);
         }
     }
-}
+
