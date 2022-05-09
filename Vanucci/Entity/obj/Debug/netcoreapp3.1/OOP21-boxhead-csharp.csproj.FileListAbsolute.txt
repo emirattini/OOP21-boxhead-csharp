@@ -1,0 +1,14 @@
+C:\Users\stecc\source\repos\OOP21-boxhead-csharp\OOP21-boxhead-csharp\obj\Debug\netcoreapp3.1\OOP21-boxhead-csharp.csproj.AssemblyReference.cache
+C:\Users\stecc\source\repos\OOP21-boxhead-csharp\OOP21-boxhead-csharp\obj\Debug\netcoreapp3.1\OOP21-boxhead-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stecc\source\repos\OOP21-boxhead-csharp\OOP21-boxhead-csharp\obj\Debug\netcoreapp3.1\OOP21-boxhead-csharp.AssemblyInfoInputs.cache
+C:\Users\stecc\source\repos\OOP21-boxhead-csharp\OOP21-boxhead-csharp\obj\Debug\netcoreapp3.1\OOP21-boxhead-csharp.AssemblyInfo.cs
+C:\Users\stecc\source\repos\OOP21-boxhead-csharp\OOP21-boxhead-csharp\obj\Debug\netcoreapp3.1\OOP21-boxhead-csharp.csproj.CoreCompileInputs.cache
+C:\Users\stecc\source\repos\OOP21-boxhead-csharp\OOP21-boxhead-csharp\bin\Debug\netcoreapp3.1\OOP21-boxhead-csharp.exe
+C:\Users\stecc\source\repos\OOP21-boxhead-csharp\OOP21-boxhead-csharp\bin\Debug\netcoreapp3.1\OOP21-boxhead-csharp.deps.json
+C:\Users\stecc\source\repos\OOP21-boxhead-csharp\OOP21-boxhead-csharp\bin\Debug\netcoreapp3.1\OOP21-boxhead-csharp.runtimeconfig.json
+C:\Users\stecc\source\repos\OOP21-boxhead-csharp\OOP21-boxhead-csharp\bin\Debug\netcoreapp3.1\OOP21-boxhead-csharp.runtimeconfig.dev.json
+C:\Users\stecc\source\repos\OOP21-boxhead-csharp\OOP21-boxhead-csharp\bin\Debug\netcoreapp3.1\OOP21-boxhead-csharp.dll
+C:\Users\stecc\source\repos\OOP21-boxhead-csharp\OOP21-boxhead-csharp\bin\Debug\netcoreapp3.1\OOP21-boxhead-csharp.pdb
+C:\Users\stecc\source\repos\OOP21-boxhead-csharp\OOP21-boxhead-csharp\obj\Debug\netcoreapp3.1\OOP21-boxhead-csharp.dll
+C:\Users\stecc\source\repos\OOP21-boxhead-csharp\OOP21-boxhead-csharp\obj\Debug\netcoreapp3.1\OOP21-boxhead-csharp.pdb
+C:\Users\stecc\source\repos\OOP21-boxhead-csharp\OOP21-boxhead-csharp\obj\Debug\netcoreapp3.1\OOP21-boxhead-csharp.genruntimeconfig.cache
